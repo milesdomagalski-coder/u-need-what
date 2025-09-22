@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>U-Need What</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #333;
+      text-align: center;
+    }
+    header {
+      background: #4CAF50;
+      color: white;
+      padding: 2rem 1rem;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-size: 1.2rem;
+    }
+    main {
+      padding: 2rem 1rem;
+      max-width: 600px;
+      margin: auto;
+    }
+    .contact {
+      margin-top: 2rem;
+      padding: 1.5rem;
+      background: #eee;
+      border-radius: 8px;
+    }
+    .contact a {
+      display: block;
+      margin: 0.5rem 0;
+      color: #4CAF50;
+      text-decoration: none;
+      font-size: 1.2rem;
+      font-weight: bold;
+    }
+    footer {
+      background: #333;
+      color: white;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>U-Need What</h1>
+    <p>"We do what you need done."</p>
+    <p>Owner: <strong>Holly Domagalski</strong></p>
+  </header>
+
+  <main>
+    <p>Welcome to <strong>U-Need What</strong>!  
+       No task is too big or too small — if you need it done, we’ll take care of it.</p>
+
+    <div class="contact">
+      <h2>Contact Us</h2>
+      <a href="tel:8329932812">📞 832-993-2812</a>
+      <a href="mailto:hollydomagalski@gmail.com">✉️ hollydomagalski@gmail.com</a>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 U-Need What | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
