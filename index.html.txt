@@ -67,7 +67,7 @@
     <div class="contact">
       <h2>Contact Us</h2>
       <a href="tel:8329932812">📞 832-993-2812</a>
-      <a href="mailto:hollydomagalski@gmail.com">✉️ hollydomagalski@gmail.com</a>
+      <a href="mailto:holly@uneedwhat.net">✉️ holly@uneedwhat.net</a>
     </div>
   </main>
 
