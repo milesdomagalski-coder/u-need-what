@@ -67,7 +67,8 @@
     <div class="contact">
       <h2>Contact Us</h2>
       <a href="tel:8329932812">📞 832-993-2812</a>
-      <a href="mailto:holly@uneedwhat.net">✉️ holly@uneedwhat.net</a>
+      <a href="mailto:miles@uneedwhat.net">✉️ miles@uneedwhat.net</a>
+
     </div>
   </main>
 
@@ -76,4 +77,5 @@
   </footer>
 
 </body>
+
 </html>
